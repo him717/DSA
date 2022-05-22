@@ -23,18 +23,6 @@ void printList(Node* node)
 } 
 
 
- // } Driver Code Ends
-/* Link list Node 
-struct Node {
-    int data;
-    Node* next;
-    
-    Node(int x){
-        data = x;
-        next = NULL;
-    }
-    
-}; */
 
 // Main funtion to find the middle node 
 class Solution{
@@ -82,4 +70,3 @@ int main() {
     }
     return 0;
 }
-  // } Driver Code Ends
