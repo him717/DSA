@@ -33,7 +33,7 @@ class Solution{
         Node *slow,*fast;
        slow=fast=head;
        
-       while(fast!=0 && fast->next!=0)
+       while(fast!=NULL && fast->next!=NULL)
        {
            slow=slow->next;
            fast=fast->next->next;
