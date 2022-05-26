@@ -1,3 +1,18 @@
+// Basic Algorithm
+/*
+iterate from the last.
+1. a[i] < a[i+1];
+2. a[j] > a[i];
+3. swap( a[i], a[j]);
+4. reverse ( from index i+1 to last);
+
+*/
+
+
+
+
+
+
 class Solution {
 public:
     void nextPermutation(vector<int>& nums) {
