@@ -1,2 +1,3 @@
 # DSA
-# GFG Submissions
+# GFG Submissions (mostly)
+# Some are leetcode submissions
